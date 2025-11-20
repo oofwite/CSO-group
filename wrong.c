@@ -1,5 +1,5 @@
 #include <stdio.h>
-// NOTE: We are using string functions in the following code
+
 
 int main() {
     char str[20];
